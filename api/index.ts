@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import express from 'express';
 
-//Import das rotas da aplicação
+//Import das rotas da aplicação.
 import alunoRoutes from './alunos/routes';
 
 const app = express()
